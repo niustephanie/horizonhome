@@ -72,12 +72,16 @@ header .navbar-nav>li>a {
 	border-radius: 3px;
 }
 
+.navbar-default {
+	background-color: #FFA800;
+}
+
 header .navbar-default .navbar-nav>li>a:hover, 
 header .navbar-default .navbar-nav>li>a:focus,
 header .navbar-default .navbar-nav>li.open>a:hover, 
 header .navbar-default .navbar-nav>li.open>a:focus {
-	background: #fff;
-	border: 1px solid #fb6c6c;
+	background: #FFA800;
+	border: 1px solid #FFF;
 }
 
 header .navbar-nav .dropdown-menu {
@@ -115,8 +119,8 @@ header .navbar-brand {
 }
 header .navbar-brand img {
 	position: relative;
-	top: 7px;
-	max-width: 165px;
+	/*top: 7px;*/
+	max-width: 500px;
 }
 
 /*
