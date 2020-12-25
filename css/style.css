@@ -25,12 +25,6 @@ h1,h2,h3,h4,h5,h6{
 	font-weight: 600;
 }
 
-hr {
-	margin-left: 10%;
-	margin-right: 10%;
-	border: 1px solid #0A3275;
-}
-
 p{
 	margin:0;
 	padding:0;
